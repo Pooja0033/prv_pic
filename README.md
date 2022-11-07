@@ -83,7 +83,7 @@ python3 bot.py
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pooja0033/making-new)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pooja0033/prv_pic)
 
 
 ## Commands
